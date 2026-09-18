@@ -1,5 +1,4 @@
 pandas
-
 numpy
-
-sklearn.preprocessing
+scikit-learn
+streamlit
